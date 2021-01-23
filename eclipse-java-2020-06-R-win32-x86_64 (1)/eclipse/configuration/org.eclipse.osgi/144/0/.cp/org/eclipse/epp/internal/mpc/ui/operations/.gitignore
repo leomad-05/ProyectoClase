@@ -1,0 +1,13 @@
+/AbstractProvisioningOperation.class
+/CompositeProfileChangeOperation.class
+/FeatureDescriptor.class
+/Messages.class
+/ProfileChangeOperationComputer$OperationType.class
+/ProfileChangeOperationComputer$ProfileChangeOperationFactory.class
+/ProfileChangeOperationComputer$ResolutionStrategy.class
+/ProfileChangeOperationComputer.class
+/RepositoryTransactionHelper$CleanupAction.class
+/RepositoryTransactionHelper$RepositoryTracker.class
+/RepositoryTransactionHelper.class
+/ResolveFeatureNamesOperation.class
+/messages.properties
